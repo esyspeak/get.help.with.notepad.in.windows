@@ -1,6 +1,6 @@
 # Get help with notepad in windows
 
-[![Get help with notepad in windows](blue.png)](https://github.com/esyspeak/get.help.with.notepad.in.windows)
+[![Get help with notepad in windows](blue.png)](https://computersolve.com/get-help-with-notepad-in-windows/)
 
 
 **Get Help With Notepad In Windows –** With every update, operating systems are getting more and more complicated than it was in early a few years back. Not just elderly people but many times young people also got really confused and could not find many functions.
